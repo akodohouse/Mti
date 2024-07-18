@@ -1,0 +1,35 @@
+{
+    "name": "akodo",
+    "short_name": "سكن طلاب الكلية",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "سكن طلاب الكلية",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "web/logoApp.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "web/logoApp.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "web/logoApp.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "web/logoApp.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
